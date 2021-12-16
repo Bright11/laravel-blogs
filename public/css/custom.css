@@ -1,0 +1,101 @@
+.mynavecolor{
+    background-color: brown;
+    margin-bottom: 20px;
+}
+.mynavecolor li a{
+    color: white;
+    text-transform: uppercase;
+    font-size: 15px;
+}
+.mynavecolor li a:hover{
+    color: white;
+}
+.navbar-brand{
+    color: white;
+}
+.navbar-brand:hover{
+    color: white;
+}
+.sidebar li{
+list-style: none;
+}
+
+.sidebar li a{
+    text-decoration: none;
+    }
+
+.blogimg{
+    height: 300px;
+}
+.detailscontainer{
+    text-align: center;
+    margin-top: 30px;
+}
+
+.detailsimg{
+    height: 400px;
+    width: auto;
+}
+.bloglink{
+    text-decoration:none;
+    color:black;
+    font-size: 18px;
+}
+.bloglink:hover{
+    color: chartreuse;
+}
+.readmore{
+    text-decoration: none;
+    color: crimson;
+    font-size: 18px;
+}
+.readmore:hover{
+    color: darkgreen;
+}
+
+.detailsimg{
+    box-shadow: 10px 10px 5px 0px;
+}
+.commentdiv{
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
+.comment{
+    box-shadow: 10px 10px 5px 0px;
+}
+.category{
+    background-color: tomato;
+}
+.footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.detailslogin{
+    text-decoration: none;
+    font-size: 20px;
+    color: black;
+}
+.detailslogin:hover{
+    color: brown;
+}
+.blogindex{
+    box-shadow: 10px 10px 5px 0px;
+}
+.sidebarcat li{
+    list-style: none;
+    background-color: brown;
+    margin-top:10px;
+    text-align: center;
+}
+.sidebarcat a{
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+}
+.dropdown-menu li{
+    list-style: none;
+    background-color: brown;
+    margin-top:10px;
+    text-align: center;
+}
